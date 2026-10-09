@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: sysshop
+Specification-Vendor: CircleKey
+Specification-Version: 1
+Implementation-Title: forge-1.21.1
+Implementation-Version: 0.0.1
+Implementation-Vendor: CircleKey
+
