@@ -1,6 +1,6 @@
 # sysshop（以物易物）
 
-**作者：** CircleKey · **版本：** `0.0.1` · **加载器：** Minecraft Forge  
+**作者：** CircleKeyword · **版本：** `0.0.1` · **加载器：** Minecraft Forge  
 Forge 加载器中显示为 **sysshop**；打开模组主商店界面后显示 **“以物易物”**。
 
 sysshop 是一个 Forge 换物商店模组，提供玩家商店、多人游戏系统商店、商店管理与补货 GUI。四个 Minecraft 版本分别维护为独立工程。
@@ -72,11 +72,11 @@ cd .\forge-1.20.1
 
 ## 验证状态
 
-四个版本均已执行 `clean build`，构建成功。Gradle 的 `test` 任务当前为 `NO-SOURCE`；尚未完成真实游戏客户端、服务器、GUI 交互和联机交易测试。使用前请在目标游戏版本中自行验证，尤其不要把当前构建状态误当作实机测试结论。
+四个版本均已执行 `clean build`，构建成功。Gradle 的 `test` 任务当前为 `NO-SOURCE`；目前只有1.20.1版本完成了真是游戏客户端、服务器、GUI交互与联机交易测试，其他版本均未完成真实游戏客户端、服务器、GUI 交互和联机交易测试。使用前请在目标游戏版本中自行验证，尤其不要把当前构建状态误当作实机测试结论。
 
 ## 许可证
 
-本项目原创代码采用 [MIT License](LICENSE)，版权署名为 CircleKey（369869659）。Minecraft、Forge、Gradle Wrapper 及其他第三方组件和商标各自受其上游条款约束；本项目不包含 Minecraft 游戏文件或官方资源。
+本项目原创代码采用 [MIT License](LICENSE)，版权署名为 CircleKey（CircleKeyword简写，QQ号369869659）。Minecraft、Forge、Gradle Wrapper 及其他第三方组件和商标各自受其上游条款约束；本项目不包含 Minecraft 游戏文件或官方资源。
 
 ## 免责声明
 
